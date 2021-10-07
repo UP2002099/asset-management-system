@@ -13,6 +13,18 @@ Pulling from github
 Downloading as zip file
 1. Download zip and extract in XAMPP's htdocs folder (C:\xampp\htdocs)
 
-## Usage
+Setting up the database
+1. Open the XAMPP Control Panel
+2. Start the Apache and MySQL modules
+3. Click on the 'Admin' button for MySQL (This redirects you to the database webpage)
+4. On the webpage, click 'Import'
+5. Choose the file called ims.sql (this is in the inventory_management_system folder)
+6. Click 'go' at the bottom of the webpage
 
-2. 
+## Usage
+1. Before usage, XAMPP Control Panel must be opened
+2. Start the Apache and MySQL modules
+3. Open your preferred browser
+4. Type http://localhost/inventory_management_system/index/landing.php into your search bar
+5. Create an account
+6. Login
