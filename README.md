@@ -1,7 +1,7 @@
 # Inventory Management System (IMS)
 - The Inventory Management System (IMS) is a project I developed during the summer of 2019, for the company Asia Cabs where I was interning
 - This project was meant to be able to integrate into the company's intranet
-- **This project is not meant to be deployed on the web! It is only a mock-up I created for Asia Cabs**
+- **This project is not meant to be deployed in any form! It is only a proof of concept I created for Asia Cabs**
 
 ## Features
 1. Ability to withdraw and return inventory
