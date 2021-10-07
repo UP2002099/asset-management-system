@@ -1,5 +1,5 @@
-# Asset Management System (AMS)
-- The Asset Management System (AMS) is a project I developed during the summer of 2019, for the company Asia Cabs where I was interning
+# Inventory Management System (IMS)
+- The Inventory Management System (IMS) is a project I developed during the summer of 2019, for the company Asia Cabs where I was interning
 - AMS uses Java, JavaScript, PHP, SQL, HTML and CSS
 
 ## Prerequisites
