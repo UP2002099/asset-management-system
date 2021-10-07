@@ -5,5 +5,14 @@
 ## Prerequisites
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
 
+## Installation
+Pulling from github
+1. Navigate to XAMPP's htdocs folder (C:\xampp\htdocs)
+2. Pull project into folder
+
+Downloading as zip file
+1. Download zip and extract in XAMPP's htdocs folder (C:\xampp\htdocs)
+
 ## Usage
-1. Pull from github to Visual Studio Code or your preferred code editor
+
+2. 
