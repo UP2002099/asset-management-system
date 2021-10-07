@@ -1,6 +1,15 @@
 # Inventory Management System (IMS)
 - The Inventory Management System (IMS) is a project I developed during the summer of 2019, for the company Asia Cabs where I was interning
+- This project was meant to be able to integrate into the company's intranet
 - **This project is not meant to be deployed on the web! It is only a mock-up I created for Asia Cabs**
+
+## Features
+1. Ability to withdraw and return inventory
+2. Ability to see who is in possession of certain items
+3. Ability to see inventory in real-time on a webpage, without having to refer to the database
+4. Admins can directly add and remove inventory without having to do it in the database
+5. Basic dashboard where admins can add notices and company-related news items
+6. Users can change basic information, such as username, password and email without having to contact the Admin
 
 ## Prerequisites
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
