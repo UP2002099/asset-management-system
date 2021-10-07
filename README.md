@@ -1,6 +1,6 @@
 # Inventory Management System (IMS)
 - The Inventory Management System (IMS) is a project I developed during the summer of 2019, for the company Asia Cabs where I was interning
-- IMS uses Java, JavaScript, PHP, SQL, HTML and CSS
+- **This project is not meant to be deployed on the web! It is only a mock-up I created for Asia Cabs**
 
 ## Prerequisites
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
