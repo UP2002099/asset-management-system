@@ -26,5 +26,9 @@ Setting up the database
 2. Start the Apache and MySQL modules
 3. Open your preferred browser
 4. Type http://localhost/inventory_management_system/index/landing.php into your search bar
-5. Create an account
-6. Login
+5. Login using
+```
+username: admin
+password: 12345
+```
+6. Alternatively you can choose to create your own account
