@@ -1,0 +1,47 @@
+.undernav-h1 {
+    padding-top: 80px;
+
+}
+
+.breadcrumb {
+    background-color: white;
+
+}
+
+.row-form {
+    padding-bottom: 10px;
+
+}
+
+.other-style {
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.other-style-text{
+    margin-top: 45px;
+    position: relative;
+    right: 80px;
+}
+
+.show-hide {
+    display: none;
+    
+}
+
+.radio-inline {
+    margin-right: 15px;
+}
+
+.row-center {
+    text-align: center;
+
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
